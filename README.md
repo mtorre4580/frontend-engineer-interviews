@@ -5,9 +5,6 @@ Tips to prepare for frontend-engineer interviews
 # Data Structures and Algorithms
 
 Organizing and storing data in computers in such a way that we can perform operations on the stored data more efficiently
-
-# Why is important
-
 Data structures come under the fundamentals of Computer Science and Software Engineering, is a key in any interview
 
 # Types
@@ -19,7 +16,6 @@ Data structures come under the fundamentals of Computer Science and Software Eng
 5. [Hash Table](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/data-structures/hash-table)
 6. [Trees](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/data-structures/tree)
 7. Graphs (WIP)
-    
 
 # Javascript
 

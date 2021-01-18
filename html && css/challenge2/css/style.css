@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --white: #fff;
+    --black: #212121;
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+.clockdown {
+    background-color: var(--black);
+    color: var(--white);
+    width: 400px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}

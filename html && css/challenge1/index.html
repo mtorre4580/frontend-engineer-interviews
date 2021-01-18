@@ -1,0 +1,180 @@
+<!-- DOCTYPE: Adding the doctype to specify the document (html 5) -->
+<!DOCTYPE html>
+<!-- lang: Identify the language of text content -->
+<html lang="en">
+    <head>
+        <!-- title: Required for any document, define the title of the document -->
+        <title>Test CSS</title>
+        <!-- meta-charset: Specify the character encoding for the HTML document -->
+        <meta charset="UTF-8">
+        <!-- viewport: The viewport is the user's visible area of a web page, control the dimensions and scaling -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- meta-name: Specifiy the author of the page -->
+        <meta name="author" content="Matias">
+        <!-- style: add css external or inline -->
+        <link rel="stylesheet" href="css/styles.css">
+        <!-- adding styles font google -->
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap">
+    </head>
+    <body>
+        <!-- header: Introductory content or navigation links -->
+        <header>
+            <h1>Challenge 1</h1>
+        </header>
+        <!-- main: Specifiy the main content of an document -->
+        <main>
+            <!-- Component tabs -->
+            <div class="tabs">
+                <button class="tab tab-active" id="website">
+                    <img src="assets/cloud.svg" class="tab__img" alt="cloud">
+                    <p class="tab__text">Website, domain & email</p>
+                </button>
+                <button class="tab tab-inactive" id="office">
+                    <img src="assets/office.svg" class="tab__img" alt="cloud">
+                    <p class="tab__text">Office 365</p>
+                </button>
+                <button class="tab tab-inactive" id="money">
+                    <img src="assets/horn.svg" class="tab__img" alt="cloud">
+                    <p class="tab__text">Earn money</p>
+                </button>
+            </div>
+            <div class="container">
+                <div class="website section section-active">
+                    <div class="search-brands">
+                        <!-- Component search -->
+                        <form class="searchbox">
+                            <input class="searchbox__input" type="search" name="search" placeholder="Register a new domain or transfer existing">
+                            <button class="searchbox__button" type="submit">Search</button>
+                            <!-- Component loader -->
+                            <div class="loader loader-inactive"></div>
+                        </form>
+                        <!-- Component brands -->
+                        <div class="brands">
+                            <div class="brand__item">
+                                <img class="brand__img" alt="sek" src="assets/brand.png">
+                                <p class="brand_title">SEK 115.00</p>
+                            </div>
+                            <div class="brand__item">
+                                <img class="brand__img" alt="sek" src="assets/brand.png">
+                                <p class="brand_title">SEK 85.00</p>
+                            </div>
+                            <div class="brand__item">
+                                <img class="brand__img" alt="sek" src="assets/brand.png">
+                                <p class="brand_title">SEK 95.00</p>
+                            </div>
+                            <div class="brand__item">
+                                <img class="brand__img" alt="sek" src="assets/brand.png">
+                                <p class="brand_title">SEK 115.00</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Component navigation -->
+                    <div class="navigation">
+                        <div class="navigation-status">
+                            <h2 class="navigation-status__description">one-example.guide</h2>
+                            <h2 class="navigation-status__description">Hosting Professional Plus (200 GB)</h2>
+                            <h2 class="navigation-status__description">Storage: 0.4 GB of 200 GB</h2>
+                        </div>
+                        <!-- Component Button -->
+                        <a href="#" class="button button-violet">
+                            Upgrade
+                        </a>
+                    </div>
+                    <div class="cards">
+                        <!-- Component Card -->
+                        <div class="card">
+                            <div class="card__title card__title-green">
+                                <h2 class="card__description">Email</h2>
+                            </div>
+                            <div class="card__content">
+                                <img class="card__img" src="assets/email.svg" alt="email">
+                                <p class="card__text">Email addresses and aliases, settings and extra features</p>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card__title card__title-blue">
+                                <h2 class="card__description">Website Builder Premium</h2>
+                            </div>
+                            <div class="card__content">
+                                <img class="card__img" src="assets/email.svg" alt="email">
+                                <p class="card__text">Beautiful responsive websites with no coding</p>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card__title card__title-blue">
+                                <h2 class="card__description">WordPress</h2>
+                            </div>
+                            <div class="card__content">
+                                <img class="card__img" src="assets/email.svg" alt="email">
+                                <p class="card__text">Powerful hosting for WordPress sites in 1 click</p>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card__title card__title--orange">
+                                <h2 class="card__description">Online Shop</h2>
+                            </div>
+                            <div class="card__content">
+                                <img class="card__img" src="assets/email.svg" alt="email">
+                                <p class="card__text">E-commerce for both WordPress and Website Builder sites</p>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card__title card__title-green-light">
+                                <h2 class="card__description">One Photo</h2>
+                            </div>
+                            <div class="card__content">
+                                <img class="card__img" src="assets/email.svg" alt="email">
+                                <p class="card__text">Email addresses and aliases, settings and extra features</p>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card__title card__title-grey">
+                                <h2 class="card__description card__description-black">Marketing</h2>
+                            </div>
+                            <div class="card__content">
+                                <img class="card__img" src="assets/email.svg" alt="email">
+                                <p class="card__text">Email addresses and aliases, settings and extra features</p>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card__title card__title-grey">
+                                <h2 class="card__description card__description-black">Files & Security</h2>
+                            </div>
+                            <div class="card__content">
+                                <img class="card__img" src="assets/email.svg" alt="email">
+                                <p class="card__text">Email addresses and aliases, settings and extra features</p>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card__title card__title-grey">
+                                <h2 class="card__description card__description-black">Advanced settings</h2>
+                            </div>
+                            <div class="card__content">
+                                <img class="card__img" src="assets/email.svg" alt="email" />
+                                <p class="card__text">Email addresses and aliases, settings and extra features</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="office section section-inactive">
+                    <p>Office</p>
+                </div>
+                <div class="money section section-inactive">
+                    <p>Money</p>
+                </div>
+                <!-- Component Tooltip -->
+                <div class="tooltip tooltip-green">
+                    <img class="tooltip__icon" src="assets/chat.svg" alt="chat" />
+                    <span class="tooltip__text">Help</span>
+                </div>
+            </div>
+            <!-- Script to simulate searching -->
+            <script src="js/index.js"></script>
+        </main>
+        <!-- footer: Specifiy the footer of an document or section -->
+        <footer>
+            <p class="footer">Matias Torre</p>
+        </footer>
+    </body>
+</html>

@@ -36,7 +36,7 @@ You must be able to carry out any action without depending on any particular lib
 4. [Autocomplete](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/html%20%26%26%20css/challenge4)
 5. [Star Widget](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/html%20%26%26%20css/challenge5)
 6. [Progress Bar](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/html%20%26%26%20css/challenge6)
-7. Create a Carousel (WIP)
+7. [Carousel Scrolling]()
 8. Snake Game (WIP)
     
 If you have more challenges and want to collaborate, welcome, create a pull request

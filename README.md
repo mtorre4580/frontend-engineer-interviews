@@ -4,11 +4,6 @@ Tips to prepare for frontend-engineer interviews
 
 # Data Structures and Algorithms
 
-Organizing and storing data in computers in such a way that we can perform operations on the stored data more efficiently
-Data structures come under the fundamentals of Computer Science and Software Engineering, is a key in any interview
-
-# Types
-
 1. [Array](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/data-structures/array)
 2. [Linked List](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/data-structures/linked-list)
 3. [Stack](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/data-structures/stack)
@@ -41,4 +36,8 @@ You must be able to carry out any action without depending on any particular lib
 9. [Modal]()
 10. Snake Game (WIP)
     
-If you have more challenges and want to collaborate, welcome, create a pull request
+# Questions
+
+1. [JS]()
+2. [HTML]()
+3. [CSS]()

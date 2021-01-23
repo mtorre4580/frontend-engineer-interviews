@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --blue: #1976d2;
+  --white: #fff;
+}
+
+.tooltip {
+  color: var(--blue);
+  padding: 20px;
+  margin: 20px;
+  position: relative;
+}
+
+.tooltip__text {
+  background-color: var(--blue);
+  color: var(--white);
+  padding: 5px 10px;
+  display: inline;
+  border-radius: 4px;
+  position: absolute;
+  visibility: hidden;
+  left: 0;
+}
+
+.tooltip__text--top {
+  bottom: 40px;
+}
+
+.tooltip__text--bottom {
+  top: 40px;
+}
+
+.tooltip:hover .tooltip__text {
+  visibility: visible;
+}

@@ -30,8 +30,8 @@ Data structures come under the fundamentals of Computer Science and Software Eng
 
 You must be able to carry out any action without depending on any particular library
 
-1. [Design any mock](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/html%20%26%26%20css/challenge1)
-2. [Create a clockdown](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/html%20%26%26%20css/challenge2)
+1. [Design](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/html%20%26%26%20css/challenge1)
+2. [Clockdown](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/html%20%26%26%20css/challenge2)
 3. [Drag and Drop](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/html%20%26%26%20css/challenge3)
 4. [Autocomplete](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/html%20%26%26%20css/challenge4)
 5. [Star Widget](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/html%20%26%26%20css/challenge5)

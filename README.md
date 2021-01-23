@@ -36,8 +36,8 @@ You must be able to carry out any action without depending on any particular lib
 9. [Modal](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/html%20%26%26%20css/challenge9)
 10. Snake Game (WIP)
     
-# Questions
+# Questions
 
-1. [JS]()
-2. [HTML]()
-3. [CSS]()
+1. [JS](https://github.com/mtorre4580/frontend-engineer-interviews/blob/main/questions/JS.md)
+2. [HTML](https://github.com/mtorre4580/frontend-engineer-interviews/blob/main/questions/HTML.md)
+3. [CSS](https://github.com/mtorre4580/frontend-engineer-interviews/blob/main/questions/CSS.md)

@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --green: #388e3c;
+  --black: #212121;
+  --grey: #ddd;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+  position: relative;
+}
+
+.element {
+  background-color: var(--green);
+  min-height: 40px;
+  display: inline-block;
+  width: 40px;
+  position: absolute;
+  left: 1px;
+  margin: 10px;
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  padding: 60px 20px;
+}
+
+.btn {
+  padding: 10px 20px;
+  background-color: var(--grey);
+  color: var(--black);
+  border: 0;
+  cursor: pointer;
+  outline: none;
+}

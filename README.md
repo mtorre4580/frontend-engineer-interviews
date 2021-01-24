@@ -20,7 +20,7 @@ Tips to prepare for frontend-engineer interviews
 4. [Remove words repeat](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/js/challenge4)
 5. [Sleep function](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/js/challenge5)
 6. [URLify](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/js/challenge6)
-7. [Implement Filter Map Reduce]()
+7. [Implement Filter Map Reduce](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/js/challenge7)
 
 # HTML & CSS & JS
 

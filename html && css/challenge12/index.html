@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Challenge 12</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <main>
+      <div class="container">
+        <div class="login">
+          <div class="login__close">x</div>
+          <form class="form" method="post" novalidate>
+            <label class="form__label" for="email">Email or Phone</label>
+            <input id="email" class="form__input" type="text" name="email" />
+            <label class="form__label" for="password">Password</label>
+            <input
+              id="password"
+              class="form__input"
+              type="password"
+              name="password"
+            />
+            <p class="form__invalid"></p>
+            <button class="form__btn">LOGIN</button>
+          </form>
+          <p class="login__new">
+            Not a member? <a href="#" class="link">Signup now</a>
+          </p>
+        </div>
+      </div>
+    </main>
+    <script src="js/index.js"></script>
+  </body>
+</html>

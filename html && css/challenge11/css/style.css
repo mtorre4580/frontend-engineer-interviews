@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.pagination {
+  padding: 10px 0;
+}
+
+.pagination__item {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #ddd;
+  line-height: 20px;
+  font-size: 20px;
+}
+
+.pagination__item:hover {
+  background-color: #212121;
+  color: #fff;
+  cursor: pointer;
+}
+
+.pagination__btn {
+  border: 0;
+  outline: none;
+  padding: 10px 20px;
+  color: #212121;
+  font-weight: bold;
+  background-color: transparent;
+  cursor: pointer;
+}

@@ -19,7 +19,8 @@ Tips to prepare for frontend-engineer interviews
 3. [Reverse string](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/js/challenge3)
 4. [Remove words repeat](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/js/challenge4)
 5. [Sleep function](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/js/challenge5)
-6. [Implement URLify](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/js/challenge6)
+6. [URLify](https://github.com/mtorre4580/frontend-engineer-interviews/tree/main/js/challenge6)
+7. [Implement Filter Map Reduce]()
 
 # HTML & CSS & JS
 
